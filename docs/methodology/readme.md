@@ -2,6 +2,10 @@
 EventStorming is a workshop format for quickly exploring complex business domains by focusing on *domain events* generated in the context of a business process or a business application. It focuses on communication between product owner, domain experts and developers.
 A **Domain Event** is something meaningful that happened in the domain.
 
+EventStorming is a variant of Domain Design introduced and publicized by Alberto Brandolini in [Introducing Eventstorming](https://leanpub.com/introducing_eventstorming) .  It has achieved significant recognition in the Design community as a technique to accelerate design and good team communication for a new design. In this section we describe  use of the method with adaptations and extensions important for design of an Event Driven Archtiecture solution. 
+
+
+
 ## Conducting the Workshop
 An Event Storming Workshop may be done after a Design Thinking Workshop in which [Personas](https://www.ibm.com/cloud/garage/content/think/practice_personas/) and [Empathy Maps](https://www.ibm.com/cloud/garage/content/think/practice_empathy_maps/) are developed and business pains and goals are defined. The Event storming will add deeper context on the process and the events. It will be fit well in deploying application in an Event Driven Architecture.
 
